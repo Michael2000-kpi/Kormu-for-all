@@ -1,6 +1,7 @@
 var junk=prompt('Як тобі','Добре/Погано');
 $('#butm').html(junk);
-jQuery('body').append('<a href="https://www.youtube.com/watch?v=IZf7rgK59tw">Все мои волки делают АУФ</a>');
+console.error("fghjkl");
+jQuery('body').append('<a href="https://wgit statusww.youtube.com/watch?v=IZf7rgK59tw">Все мои волки делают АУФ</a>');
 //var deus;
 //deus=$('b').clone();
 //$('body').append(deus);
